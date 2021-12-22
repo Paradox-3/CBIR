@@ -1,7 +1,7 @@
 # CBIR
 Content Based Image Retrieval System
 
-CBIR_CNN : 
+[CBIR_CNN](https://github.com/Paradox-3/CBIR/blob/main/CBIR_CNN.ipynb) : 
   1. Taking images and creating feature vector for them using CNN
   2. Store them in a set parallel to images we collected
   3. Take query and do the feature extraction
